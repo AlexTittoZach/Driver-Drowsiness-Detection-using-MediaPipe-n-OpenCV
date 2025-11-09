@@ -1,6 +1,7 @@
 # Real-time Drowsiness Detection System
 
 A computer vision system that monitors user alertness by detecting eye closure and yawning in real-time, providing audio alerts to prevent drowsiness-related accidents.
+The system uses pre-trained model ie Mediapipe Face Mesh. NOT trained using any dataset.
 
 ## Features
 
